@@ -43,8 +43,8 @@
   
 ### 👉Graphic Designing
 <p align="left">
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+   <a href="#" target="_blank"> 
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   </a> 
    &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
@@ -59,7 +59,6 @@
 
  ### 👉 Software & Tools
 <p>
-  &emsp;
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Chat GPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
