@@ -1,7 +1,5 @@
 <h1 align="center">Hi , I'm Irving Coello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<hr/>
-
 <h4 align="center">I am a Computer Engineering student who enjoys programming, designing, innovating, and experimenting. I consider myself an enthusiastic and sociable person, always ready to take on new challenges and acquire skills that enhance my professional growth. I enjoy meeting new people, exchanging ideas, and sharing knowledge, while striving to bring a positive and collaborative attitude to every environment I am part of.</h4>
 
 <br>
