@@ -47,7 +47,7 @@
   &emsp;
   	
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   </a> 
    &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
