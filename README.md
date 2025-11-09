@@ -71,8 +71,9 @@
 
 
 
-<!-- <details> 
-## 📊 Github Stats (Expand to View) 
+
+## 📊 Github Stats 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
