@@ -13,7 +13,7 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
-
+&emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
@@ -46,7 +46,6 @@
 <p align="left">
   &emsp;
   	
-  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
