@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Irving Coello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">I am a Computer Engineering student who enjoys programming, designing, innovating, and experimenting. I consider myself an enthusiastic and sociable person, always ready to take on new challenges and acquire skills that enhance my professional growth. I enjoy meeting new people, exchanging ideas, and sharing knowledge, while striving to bring a positive and collaborative attitude to every environment I am part of.</h4>
+<h4 align="center">I am a Computer Engineering student who enjoys programming, designing, editing, innovating, and experimenting. I consider myself an enthusiastic and sociable person, always ready to take on new challenges and acquire skills that enhance my professional growth. I enjoy meeting new people, exchanging ideas, and sharing knowledge, while striving to bring a positive and collaborative attitude to every environment I am part of.</h4>
 
 <br>
 
@@ -36,14 +36,13 @@
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
-  &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+	&emsp;
 	<a href="https://www.mysql.com/"><img alt="MariaBD" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
  </p>
   
 ### 👉Graphic Designing
 <p align="left">
-  &emsp;
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   </a> 
@@ -55,6 +54,7 @@
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   </a>
+&emsp;
  </p>
 
  ### 👉 Software & Tools
@@ -65,7 +65,7 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  
+&emsp;
 </p>
 
 <br/>
